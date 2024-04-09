@@ -5,10 +5,10 @@ Voyage Ventures is a travel platform dedicated to inspiring and facilitating mem
 
 Features
 
-.Curated Travel Packages: Discover a diverse range of curated travel packages tailored to various interests and preferences.
+Curated Travel Packages: Discover a diverse range of curated travel packages tailored to various interests and preferences.
 
-.Comprehensive Resources: Access comprehensive resources, including destination guides, travel tips, and packing lists, to help you plan your trip with ease.
+Comprehensive Resources: Access comprehensive resources, including destination guides, travel tips, and packing lists, to help you plan your trip with ease.
 
-.Personalized Experiences: Customize your travel experience with personalized itineraries and activities designed to suit your unique preferences.
+Personalized Experiences: Customize your travel experience with personalized itineraries and activities designed to suit your unique preferences.
 
-.Responsible Tourism: We are committed to promoting responsible tourism practices and fostering cultural understanding and environmental conservation in every destination we explore.
+Responsible Tourism: We are committed to promoting responsible tourism practices and fostering cultural understanding and environmental conservation in every destination we explore.
