@@ -2,7 +2,7 @@
 
 Voyage Ventures is a travel platform dedicated to inspiring and facilitating memorable journeys for travelers worldwide. Our mission is to provide comprehensive resources, curated travel packages, and personalized experiences to empower travelers to explore the world responsibly and sustainably.
 
-![image](https://github.com/swetasingh8844/Travelling_Website/assets/120044039/a32f1507-7a68-4732-ae6b-cbf596f89efc)
+![image](https://github.com/swetasingh8844/Travelling_Website/assets/120044039/5f47dade-6ebb-472f-94af-2d031009a97b)
 
 
 **Features**
